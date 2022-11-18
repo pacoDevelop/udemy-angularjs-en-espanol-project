@@ -12,4 +12,5 @@ app.controller('alumnoCtrl', ['$scope','$routeParams','$http', function($scope,$
 			return;
 		}
 		$scope.alumno=res.data})
+		
 }]);
