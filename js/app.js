@@ -15,7 +15,7 @@ app.controller('mainCtrl', ['$scope','$http', ($scope,$http)=>{
 
 		
 	}
-
+	
 }]);
 
 //Filtro personalizado de teléfono
