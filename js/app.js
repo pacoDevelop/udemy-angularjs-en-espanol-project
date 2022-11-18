@@ -13,6 +13,7 @@ app.controller('mainCtrl', ['$scope','$http', ($scope,$http)=>{
 
 		$scope[Opcion] = "active";
 
+		
 	}
 
 }]);
