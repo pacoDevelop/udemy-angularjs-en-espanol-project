@@ -11,6 +11,5 @@ app.controller('alumnoCtrl', ['$scope','$routeParams','$http', function($scope,$
 			window.location="#!/alumnos"
 			return;
 		}
-		$scope.alumno=res.data})
-		
+		$scope.alumno=res.data})		
 }]);
